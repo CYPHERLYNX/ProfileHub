@@ -1,0 +1,17 @@
+# virtualenvs
+venv/
+.venv/
+bin/
+pyvenv.cfg
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# uploads / local db
+static/uploads/
+*.db
+
+# os
+.DS_Store
